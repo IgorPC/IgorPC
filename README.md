@@ -4,8 +4,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorPC&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorPC&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
-
-##  
   
 <div style="display: inline_block"><br>
   <img align="center" alt="pc-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/php/php-plain.svg">
